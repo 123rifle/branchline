@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-11-15",
+  "launch_date": "2025-12-01",
+  "currency": "USD",
+  "data_kind": "synthetic-demo",
+  "generated_by": "tools/generate_data.py",
+  "plans": {
+    "plus": {
+      "monthly": 6,
+      "annual": 60
+    },
+    "creator": {
+      "monthly": 14,
+      "annual": 140
+    }
+  }
+}

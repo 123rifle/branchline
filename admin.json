@@ -1,0 +1,13 @@
+{
+  "session_hours": 8,
+  "max_failed_attempts": 5,
+  "lockout_minutes": 2,
+  "admins": [
+    {
+      "username": "alexadmin",
+      "password": "alexadminpass",
+      "display_name": "Alex (Admin)",
+      "role": "Super admin"
+    }
+  ]
+}
